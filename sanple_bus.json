@@ -1,0 +1,13 @@
+{
+  "id": 1234,
+  "name": "My-Bus",
+  "lat": 28.551546166667,
+  "lon": -81.594495,
+  "heading": null,
+  "route": 666,
+  "lastStop": 4321,
+  "fields": {
+    "type": "clever"
+  },
+  "lastUpdate": 1662237264
+}
